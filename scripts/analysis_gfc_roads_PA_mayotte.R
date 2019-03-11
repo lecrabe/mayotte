@@ -11,7 +11,7 @@ packages <- function(x){
   }
 }
 
-##################### LOAD/INSTALL PACKAGES
+##################### LOAD/INSTALL PACKAGES - FIRST RUN MAY TAKE TIME
 packages(Hmisc)
 packages(faraway)
 packages(mgcv)
@@ -26,6 +26,9 @@ packages(rgeos)
 packages(rgdal)
 packages(raster)
 packages(ggplot2)
+packages(devtools)
+
+install_github('yfinegold/gfcanalysis')
 packages(gfcanalysis)
 
 ##################### SET WORKING ENVIRONMENT
