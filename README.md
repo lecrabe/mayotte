@@ -12,3 +12,5 @@ The chain does the following:
 ![Alt text](/results/zoom_product.jpeg?raw=true "Vizualization of the products on the northern part or Mayotte")
 
 ![Alt text](/results/probability_loss.png?raw=true "GAM model results")
+
+Thanks to Emma Wiik (Bangor University) for the help on the modelisation.
