@@ -1,7 +1,7 @@
 ####################################################################################
 ####### Object:  Traitement donnees PISTE FORESTIERE MAYOTTE           
-####### Author:  remi.dannunzio@fao.org                               
-####### Update:  2019/02/11                                  
+####### Author:  remi.dannunzio@fao.org & e.wiik@bangor.ac.uk                           
+####### Update:  2019/03/11                                  
 ####################################################################################
 packages <- function(x){
   x <- as.character(match.call()[[2]])
